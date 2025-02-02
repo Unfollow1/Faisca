@@ -135,11 +135,10 @@ collections:
   - name: "sobreNos"
     extension: "json"
     description: "Configurações estáticas da página Sobre Nós"
-    identifier_field: "tittle"
+    identifier_field: "display_name"
     label: "Sobre Nós"
     folder: "content/sobreNos"
     slug: "sobreNosPage"
-    identifier_field: "display_name"
     create: false
     editor:
       preview: false
