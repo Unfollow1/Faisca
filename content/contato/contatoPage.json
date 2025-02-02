@@ -14,5 +14,6 @@
     "nome": "Nome",
     "headerText": "entre em contato com a gente",
     "email": "E-mail"
-  }
+  },
+  "display_name": "Informações estáticas"
 }
