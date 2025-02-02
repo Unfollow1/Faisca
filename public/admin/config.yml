@@ -27,7 +27,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
+      - {label: "Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       - {label: "Opção 1", name: "optionOne", widget: "string", default: "início"}
       - {label: "Opção 2", name: "optionTwo", widget: "string", default: "sobre nós"}
       - {label: "Opção 3", name: "optionThree", widget: "string", default: "portfólio"}
@@ -44,7 +44,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
+      - {label: "Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       # BANNER
       - label: "Banner Principal"
         name: "banner"
@@ -143,7 +143,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
+      - {label: "Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       # PROPÓSITO
       - {label: "Propósito", name: "purpose", widget: "text"}
 
@@ -320,7 +320,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
+      - {label: "Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       - label: "Texto Principal"
         name: "contactText"
         widget: "object"
