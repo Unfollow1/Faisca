@@ -4,8 +4,6 @@ import CardRightText from './CardRightText';
 import CardLeftText from './CardLeftText';
 import StyledText from "@/components/textoEstilizado/textoEstilizado"
 
-import rectangle from '@img/sobreNos/Structure/rectangle.png'
-
 function EstruturaFaisca({ tittle, phrase, imgOne, subTittleOne, textOne, imgTwo, subTittleTwo, subSubTittleTwo, textTwo, imgThree, subTittleThree, textThree, imgFour, subTittleFour, subSubTittleFour, textFour}) {
   return (
     <div className={styles.container}>
@@ -36,7 +34,7 @@ function EstruturaFaisca({ tittle, phrase, imgOne, subTittleOne, textOne, imgTwo
         text={textThree} />
 
       <CardLeftText
-        imgPathLT={rectangle}
+        imgPathLT={imgFour}
         erroLT={"error"}
         tittleLT={subTittleFour}
         subTittleLT={subSubTittleFour}

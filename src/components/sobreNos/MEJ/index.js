@@ -1,6 +1,5 @@
 import styles from './mej.module.css'
 import Image from "next/image"
-import rectagle from '@img/sobreNos/MEJ/teste.png'
 import StyledText from "@/components/textoEstilizado/textoEstilizado"
 
 function MEJ({ tittle, phrase, mainImg, brasilJrImg, NejImg, fejersImg, designUFRGSImg}) {
