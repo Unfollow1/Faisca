@@ -2,5 +2,8 @@
   "optionOne": "início",
   "optionTwo": "sobre nós",
   "optionThree": "portfólio",
-  "optionFour": "contato"
+  "optionFour": "contato",
+  "mobileLogoIcon": "/uploads/mobile_icon_header.png",
+  "menuCloseIcon": "/uploads/CloseNavbarCell.png",
+  "menuOpenIcon": "/uploads/MenuNavbarCell.png"
 }
