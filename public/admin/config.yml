@@ -30,9 +30,6 @@ collections:
       - {label: "Opção 2", name: "optionTwo", widget: "string", default: "sobre nós"}
       - {label: "Opção 3", name: "optionThree", widget: "string", default: "portfólio"}
       - {label: "Opção 4", name: "optionFour", widget: "string", default: "contato"}
-      - { label: "Ícone Menu Aberto", name: "menuOpenIcon", widget: "image" }
-      - { label: "Ícone Menu Fechado", name: "menuCloseIcon", widget: "image" }
-      - { label: "Ícone Logo Mobile", name: "mobileLogoIcon", widget: "image" }
 
   - name: "home"
     extension: "json"
