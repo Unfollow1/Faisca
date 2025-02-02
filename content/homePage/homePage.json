@@ -22,5 +22,6 @@
   },
   "reviews": {
     "titleReviews": "{{O QUE NOSSOS CLIENTES TEM A DIZER}}"
-  }
+  },
+  "display_name": "Informações estáticas"
 }
