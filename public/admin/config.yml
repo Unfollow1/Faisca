@@ -23,9 +23,11 @@ collections:
     folder: "content/navbar"
     slug: "navbarConfig"
     create: false
+    identifier_field: "display_name"
     editor:
       preview: false
     fields:
+      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       - {label: "Opção 1", name: "optionOne", widget: "string", default: "início"}
       - {label: "Opção 2", name: "optionTwo", widget: "string", default: "sobre nós"}
       - {label: "Opção 3", name: "optionThree", widget: "string", default: "portfólio"}
@@ -38,10 +40,11 @@ collections:
     folder: "content/homePage"
     slug: "homePage"
     create: false
-    identifier_field: "banner.tittle"
+    identifier_field: "display_name"
     editor:
       preview: false
     fields:
+          - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       # BANNER
       - label: "Banner Principal"
         name: "banner"
@@ -136,10 +139,12 @@ collections:
     label: "Sobre Nós"
     folder: "content/sobreNos"
     slug: "sobreNosPage"
+    identifier_field: "display_name"
     create: false
     editor:
       preview: false
     fields:
+      - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       # PROPÓSITO
       - {label: "Propósito", name: "purpose", widget: "text"}
 
@@ -311,10 +316,12 @@ collections:
     label: "Contato"
     folder: "content/contato"
     slug: "contatoPage"
+    identifier_field: "display_name"
     create: false
     editor:
       preview: false
     fields:
+          - {label: "Nome Painel", name: "display_name", widget: "string", hint: "Nome que aparecerá no painel administrativo"}
       - label: "Texto Principal"
         name: "contactText"
         widget: "object"
