@@ -10,4 +10,4 @@
 
 ## Liderança
 - O projeto passou por diversos desafios ao longo do desenvolvimento, incluindo mudanças de liderança. Após duas trocas, assumi a terceira liderança, contando com o apoio de um colega de equipe que atuou como co-líder. Todo o processo de finalização levou cerca de 10 meses, porém vale destacar que, durante esse período, enfrentamos a catástrofe climática das enchentes de maio no Rio Grande do Sul, o que dificultou ainda mais a conclusão do projeto dentro de um prazo menor.
-- A equipe começou com seis membros, mas dois acabaram saindo no meio do projeto. Quando assumi a liderança, restavam apenas quatro integrantes, incluindo eu.
+- A equipe começou com seis membros, mas dois acabaram saindo no meio do projeto. Quando assumi a liderança, restavam apenas quatro integrantes, incluindo eu, e foi um aprendizado muito bom no quesito gerir pessoas.
